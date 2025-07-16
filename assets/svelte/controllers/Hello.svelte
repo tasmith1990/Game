@@ -2,4 +2,4 @@
     let name = "Svelte";
 </script>
 
-<div>Hello {name}</div>
+<h1 class="text-3xl font-bold underline">Hello {name}</h1>
